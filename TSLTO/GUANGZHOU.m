@@ -7,6 +7,7 @@ hosvd(Tensor,0.008);
 tt = tucker_als(Tensor,[2,5,6]);
 tensor_errors(double(Tensor),double(ttm(tt.core,tt.U,[1,2,3])),zeros(size(Tensor)));
 %%
+rng(42);
 tuckerT1 = tucker_als(tensor(Tensor-20),[2,5,6]);
 U1 = tuckerT1.U;
 G1 = tuckerT1.core;
