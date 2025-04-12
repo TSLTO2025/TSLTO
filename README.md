@@ -1,5 +1,5 @@
 # TSLTO
-TSLTO (**T**ucker decomposition-based **S**parse **L**ow-Rank High-order **T**ensor **O**ptimization model) is a model for tensor imputation and anomaly diagnosis. Specific model and evaluations can be found in the paper [Traffic Flow Data Completion and Anomaly Diagnosis via Sparse and Low-Rank Tensor Optimization](https://arxiv.org/abs/2504.02245 "our paper").
+TSLTO (**T**ucker decomposition-based **S**parse **L**ow-Rank High-order **T**ensor **O**ptimization Model) is a model for tensor imputation and anomaly diagnosis. Specific model and evaluations can be found in the paper [Traffic Flow Data Completion and Anomaly Diagnosis via Sparse and Low-Rank Tensor Optimization](https://arxiv.org/abs/2504.02245 "our paper").
 ## Quik Run Guide
 :star: Don't forget to load `Tensor_Toolbox` and `Tensorlab` first!
 ### About Synthetic Data
