@@ -3,5 +3,6 @@ TSLTO (Tucker decomposition-based Sparse Low-Rank high-Order Tensor Optimization
 ## Quik Start
 run
 ```matlab
-load
+load(guangzhou.mat);
+miao
 ```
