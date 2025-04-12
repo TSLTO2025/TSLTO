@@ -3,9 +3,9 @@ TSLTO (Tucker decomposition-based Sparse Low-Rank high-Order Tensor Optimization
 ## Quik Run Guide
 :star: Don't forget to load `Tensor_Toolbox` and `Tensorlab` first!
 ### About Synthetic Data
-If you are interested in the generation of our synthetic data, you can run `TSLTO/synthetic_dataset.m` .
+If you are interested in generating our synthetic data, you can run `TSLTO/synthetic_dataset.m` .
 ### About Real-World Data
-Our model can also deal with imputation and anomaly diagnosis tasks in real-world data (we only use [Guangzhou](https://zenodo.org/records/1205229 "You can get raw data Guangzhou here")).  
+Our model can also handle imputation and anomaly diagnosis tasks in real-world data (we only use [Guangzhou](https://zenodo.org/records/1205229 "You can get raw data Guangzhou here")).  
 You first need to run
 ```matlab
 load(guangzhou.mat);
