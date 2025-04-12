@@ -11,7 +11,7 @@ You first need to run
 load(guangzhou.mat);
 ```
 then run `TSLTO/GUANGZHOU`.  
-:star: For more information, feel free to ask!  
-###Contact us
+### Contact us
 Junxi Man `22271014@bjtu.edu.cn`  
-Yumin Lin `21261047@bjtu.edu.cn`
+Yumin Lin `21261047@bjtu.edu.cn`  
+*For more information, feel free to ask!* 
